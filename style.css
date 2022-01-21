@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(149, 217, 240);
+  }
+  
+  h1 {
+    color: rgb(10, 1, 1);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+  

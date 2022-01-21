@@ -17,12 +17,13 @@ function nolasa() {
     }
 }
 //function perimetrs(m1,m2,m3){
-// const m=nolasa();
-// m1=m.m1; m2=m.m2; m3=m.m3;
-// console.log(m1, m2, m3);
+ //const m=nolasa();
+ //m1=m.m1; m2=m.m2; m3=m.m3;
+ //console.log(m1, m2, m3);
 //const p=m1+m2+m3;
-// console.log(p);
+ //console.log(p);
 //return (p);
+//}
 function perimetrs(m1, m2, m3) {
     //const malas=document.getElementsByClassName("mala"); 
     const m = nolasa();
